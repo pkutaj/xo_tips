@@ -27,9 +27,44 @@ The aim of this document is to provide productivity advice for Crossover Remote 
 <details>
 
 <!-- SOURCES -->
-<summary>sources</summary>
+<summary>useful links</summary>
 
 * [On Writing Well | Butterick’s Practical Typography](https://practicaltypography.com/)
+
+</details>
+<details>
+
+<!-- SOURCES -->
+<summary>NATO alphabet</summary>
+
+LETTER | WORD
+-------|---------
+A      | Alfa
+B      | Bravo
+C      | Charlie
+D      | Delta
+E      | Echo
+F      | Foxtrot
+G      | Golf
+H      | Hotel
+I      | India
+J      | Juliett
+K      | Kilo
+L      | Lima
+M      | Mike
+N      | November
+O      | Oscar
+P      | Papa
+Q      | Quebec
+R      | Romeo
+S      | Sierra
+T      | Tango
+U      | Uniform
+V      | Victor
+W      | Whiskey
+X      | X-ray
+Y      | Yankee
+Z      | Zulu
 
 </details>
 
