@@ -8,8 +8,8 @@ The aim of this document is to provide productivity advice for Crossover Remote 
 
 <!-- TOC -->
 
-- [1.2.1. TIPS](#121-tips)
-    - [1.2.1.1. use custom search engine in Chrome](#1211-use-custom-search-engine-in-chrome)
+- [TIPS](#tips)
+    - [use custom search engine in Chrome](#use-custom-search-engine-in-chrome)
 
 <!-- /TOC -->
 
